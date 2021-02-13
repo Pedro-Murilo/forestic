@@ -12,7 +12,7 @@ const Section = styled.section`
 const Container = styled.div`
     color: #f4f4f4;
     padding: 2rem;
-    backdrop-filter: blur(15px);
+    backdrop-filter: blur(3px);
     background-color: rgba(0, 0, 0, 0.5);
     margin: 2rem;
     border-radius: 5px;
