@@ -6,7 +6,7 @@ const Wallpaper = () => {
   return (
     <>
       <Header />
-      <Hero image={Image} title="Magic Forest" description="Visit this is a unique experience" />
+      <Hero image={Image} title="Like a dream" description="Let's take a tour in this?" />
       Wallpaper
     </>
   );

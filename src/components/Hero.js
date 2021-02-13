@@ -13,17 +13,17 @@ const Container = styled.div`
     color: #f4f4f4;
     padding: 2rem;
     backdrop-filter: blur(15px);
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.5);
     margin: 2rem;
     border-radius: 5px;
 
     h1 {
-        font-size: clamp(2rem, 8vw, 5rem);
+        font-size: clamp(1rem, 3vw, 3rem);
         margin-bottom: 0.5rem;
     }
 
     p {
-        font-size: clamp(1rem, 6vw, 2.5rem);
+        font-size: clamp(1rem, 2vw, 1.5rem);
         margin-bottom: 1rem;
     }
 

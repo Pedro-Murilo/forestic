@@ -6,7 +6,7 @@ const About = () => {
   return (
     <>
       <Header />
-      <Hero image={Image} title="Magic Forest" description="Visit this is a unique experience" />
+      <Hero image={Image} title="Beautiful and Unique" description="Never seen before" />
     </>
   );
 };
